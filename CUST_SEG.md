@@ -7,13 +7,13 @@ that the College Student is purchasing must meet or pass their expectations. The
 able to bring the product to them in a dorm complex.
 
 ## NEEDS
-- easy access snacks and drinks
-- a mobile service who can come to them
-- a low price
+- Easy access snacks and drinks
+- Mobile service who can come to them
+- Low price
 
 ## PROBLEMS
-- delivery fee could be too expensive
-- may not deliver to dorms
+- Delivery fee could be too expensive
+- May not deliver to dorms
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -25,9 +25,9 @@ Working Class Adult may be skeptical to giving their money to a new service they
 also desires an easy to use software.
 
 ## NEEDS
-- simple to use software
-- timeliness
-- reliable
+- Simple to use software
+- Timeliness
+- Reliable services
 
 ## PROBLEMS
 - Skeptical to scams
@@ -35,6 +35,16 @@ also desires an easy to use software.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-CUSTOMER SEGMENT #3
+# CUSTOMER SEGMENT #3: Elderly
+People over 60 years old often times require assistance with difficult tasks. Due to age, they often have medical complications
+that prohibit them from completing physically intensive tasks. Accourage offers people over 60 the convenience to quickly 
+employ more able people for only the jobs they need. The ability to order services piecemeal would be less expensive than
+hiring a full-time caregiver.
 
-TODO
+## NEEDS
+- Physical assistance
+- Protection from scams
+
+## Problems
+- Difficult market to enter
+- Low technology apptitude
